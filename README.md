@@ -1,8 +1,5 @@
 ![GoodQ Logo](image/you-are-goodqo2b-square.png)
-
-
-GoodQ_o2
-“If you can’t own your tools, you don’t own your future.”
+GoodQ_o2 “If you can’t own your tools, you don’t own your future.”
 
 Welcome to GoodQ02—where the boundary between automation, creativity, and autonomy gets redrawn.
 We’re not here to build another cloud-shaped cage. We’re here to take the best of modern tech—AI, multimodal pipelines, local-first infrastructure—and put it firmly in your hands.
